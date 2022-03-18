@@ -1,0 +1,4 @@
+#Sat Mar 19 00:14:51 NOVT 2022
+base.0=C\:\\Users\\tanke\\Documents\\GitHub\\TestApp\\TestApp\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
